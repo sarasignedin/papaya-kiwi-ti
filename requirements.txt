@@ -1,0 +1,8 @@
+certifi==2026.2.25
+charset-normalizer==3.4.4
+idna==3.11
+-e git+https://github.com/sarasignedin/papaya-kiwi-ti.git@266d7464c4f0d1d00417a32b17ff2dea81d53427#egg=papaya_kiwi_ti
+pillow==12.1.1
+reportlab==4.4.10
+requests==2.32.5
+urllib3==2.6.3

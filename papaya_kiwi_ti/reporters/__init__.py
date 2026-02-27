@@ -1,1 +1,2 @@
 from papaya_kiwi_ti.reporters.generators import PlainEnglishReporter, TechnicalReporter, MarkdownReporter
+from papaya_kiwi_ti.reporters.pdf_report import PDFReporter
